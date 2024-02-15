@@ -33,6 +33,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Suthar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Suthar&layout=donut)](https://github.com/Jay-Suthar/github-readme-stats)</br>
 ![](https://github-readme-stats.vercel.app/api?username=Jay-Suthar&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jay-Suthar&theme=dark&hide_border=false&show_icons=true)
 
