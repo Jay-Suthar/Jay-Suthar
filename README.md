@@ -31,4 +31,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/Jay-Suthar/Jay-Suthar/blob/output/github-contribution-grid-snake.svg)
