@@ -36,6 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jay-Suthar&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jay-Suthar&theme=dark&hide_border=false&show_icons=true)
 
+
 <img src="https://raw.githubusercontent.com/Jay-Suthar/Jay-Suthar/output/snake.svg" alt="Snake animation" />
 
 
