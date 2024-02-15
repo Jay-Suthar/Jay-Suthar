@@ -4,11 +4,8 @@
 🔭 I’m currently working as a Software Engineer Intern at  Capri Global Capital Ltd.<br>🎓 I am pursuing my Bachelor's in Information Technology from IIIT Allahabad.<br>✨ I am interested in Web Development, Machine Learning/Deep Learning, and Android Development.<br>⚡ As a Software Engineering Intern, I work with Python, Django, and Django REST Framework.<br>🌱 ML / DL Projects:
 
 [FAKE_NEWS_DETECTION_USING_CNN_LSTM_BILSTM_BERT_ROBERTA](https://github.com/Jay-Suthar/FAKE_NEWS_DETECTION_USING_CNN_LSTM_BILSTM_BERT_ROBERTA) 
-
 [DEEP-FAKE-DETECTION-using-cnn-xception-densenet121](https://github.com/Jay-Suthar/DEEP-FAKE-DETECTION-using-cnn-xception-densenet121)
-
 [Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES](https://github.com/Jay-Suthar/Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES) 
-
 [TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS](https://github.com/Jay-Suthar/TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS)
 
 ## 🌐 Socials:
