@@ -20,8 +20,8 @@
 🌱 Misc. Projects:
 
 - [Secure-Sharing-Of-Medical-Data-Using-Blockchain](https://github.com/Jay-Suthar/Secure-Sharing-Of-Medical-Data-Using-Blockchain)
-- [DOCKER-SERVICE-TO-DEPLOY-A-DJANGO-APPLICATION-USING-NGINX-AND-GUNICORN](https://github.com/Jay-Suthar/DOCKER-SERVICE-TO-DEPLOY-A-DJANGO-APPLICATION-USING-NGINX-AND-GUNICORN)
-- [Trojan Horse NS](https://github.com/Jay-Suthar/Trojan_Horse_NS)
+- [Docker Service to Deploy a Django Application using Nginx and Gunicorn](https://github.com/Jay-Suthar/DOCKER-SERVICE-TO-DEPLOY-A-DJANGO-APPLICATION-USING-NGINX-AND-GUNICORN)
+- [Network Security Project to Showcase Trojan Horse](https://github.com/Jay-Suthar/Trojan_Horse_NS)
 
 
 
