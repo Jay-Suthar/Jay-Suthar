@@ -31,3 +31,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<img src="https://raw.githubusercontent.com/Jay-Suthar/Jay-Suthar/output/snake.svg" alt="Snake animation" />
