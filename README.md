@@ -13,7 +13,15 @@
 - [GeekWrite](https://github.com/Jay-Suthar/GeekWrite)
 - [Natours---Tour-Booking-Website](https://github.com/Jay-Suthar/Natours---Tour-Booking-Website)
 - [Kisan-App](https://github.com/Jay-Suthar/Kisan-App)
-  
+- [USER-MANAGEMENT-SYSTEM-USING-DJANGO-SQLite-REST](https://github.com/Jay-Suthar/USER-MANAGEMENT-SYSTEM-USING-DJANGO-SQLite-REST)
+
+🌱 Misc. Projects:
+
+- [Secure-Sharing-Of-Medical-Data-Using-Blockchain](https://github.com/Jay-Suthar/Secure-Sharing-Of-Medical-Data-Using-Blockchain)
+- [DOCKER-SERVICE-TO-DEPLOY-A-DJANGO-APPLICATION-USING-NGINX-AND-GUNICORN](https://github.com/Jay-Suthar/DOCKER-SERVICE-TO-DEPLOY-A-DJANGO-APPLICATION-USING-NGINX-AND-GUNICORN)
+- [Trojan Horse NS](https://github.com/Jay-Suthar/Trojan_Horse_NS)
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100058844351392) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-suthar-468206209) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jaysuthar162001) 
