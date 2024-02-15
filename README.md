@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋  I AM JAY !</h2>
 
 # 💫 About Me:
-🔭 I’m currently working as a Software Engineer Intern at  Capri Global Capital Ltd.<br>🎓 I am pursuing my Bachelor's in Information Technology from IIIT Allahabad.<br>✨ I am interested in Web Development, Machine Learning/Deep Learning, and Android Development.<br>⚡ As a Software Engineering Intern, I work with Python, Django, and Django REST Framework.<br>
+🔭 I’m currently working as a Software Engineer Intern at  Capri Global Capital Ltd.<br>⚡ As a Software Engineering Intern, I work with Python, Django, and Django REST Framework.<br>🎓 I am pursuing my Bachelor's in Information Technology from IIIT Allahabad.<br>✨ I am interested in Web Development, Machine Learning/Deep Learning, and Android Development.<br>
 
 🌱 Dev Projects:
 
