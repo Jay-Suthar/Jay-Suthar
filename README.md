@@ -3,10 +3,17 @@
 # 💫 About Me:
 🔭 I’m currently working as a Software Engineer Intern at  Capri Global Capital Ltd.<br>🎓 I am pursuing my Bachelor's in Information Technology from IIIT Allahabad.<br>✨ I am interested in Web Development, Machine Learning/Deep Learning, and Android Development.<br>⚡ As a Software Engineering Intern, I work with Python, Django, and Django REST Framework.<br>🌱 ML / DL Projects:
 
-[FAKE_NEWS_DETECTION_USING_CNN_LSTM_BILSTM_BERT_ROBERTA](https://github.com/Jay-Suthar/FAKE_NEWS_DETECTION_USING_CNN_LSTM_BILSTM_BERT_ROBERTA) 
-[DEEP-FAKE-DETECTION-using-cnn-xception-densenet121](https://github.com/Jay-Suthar/DEEP-FAKE-DETECTION-using-cnn-xception-densenet121)
-[Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES](https://github.com/Jay-Suthar/Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES) 
-[TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS](https://github.com/Jay-Suthar/TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS)
+- [FAKE_NEWS_DETECTION_USING_CNN_LSTM_BILSTM_BERT_ROBERTA](https://github.com/Jay-Suthar/FAKE_NEWS_DETECTION_USING_CNN_LSTM_BILSTM_BERT_ROBERTA) 
+- [DEEP-FAKE-DETECTION-using-cnn-xception-densenet121](https://github.com/Jay-Suthar/DEEP-FAKE-DETECTION-using-cnn-xception-densenet121)
+- [Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES](https://github.com/Jay-Suthar/Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES) 
+- [TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS](https://github.com/Jay-Suthar/TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS)
+
+🌱 Dev Projects:
+
+- [GeekWrite](https://github.com/Jay-Suthar/GeekWrite)
+- [Natours---Tour-Booking-Website](https://github.com/Jay-Suthar/Natours---Tour-Booking-Website)
+- [Kisan-App](https://github.com/Jay-Suthar/Kisan-App)
+  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100058844351392) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-suthar-468206209) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jaysuthar162001) 
