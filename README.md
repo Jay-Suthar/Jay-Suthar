@@ -7,6 +7,7 @@
 - [DEEP-FAKE-DETECTION-using-cnn-xception-densenet121](https://github.com/Jay-Suthar/DEEP-FAKE-DETECTION-using-cnn-xception-densenet121)
 - [Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES](https://github.com/Jay-Suthar/Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES) 
 - [TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS](https://github.com/Jay-Suthar/TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS)
+- Project 1: [Awesome Web App](https://github.com/yourusername/awesome-web-app) - Description of the project.
 
 🌱 Dev Projects:
 
