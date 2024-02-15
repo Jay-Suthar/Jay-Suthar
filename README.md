@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 🔭 I’m currently working as a Software Engineer Intern at  Capri Global Capital Ltd.<br>🎓 I am pursuing my Bachelor's in Information Technology from IIIT Allahabad.<br>✨ I am interested in Web Development, Machine Learning/Deep Learning, and Android Development.<br>⚡ As a Software Engineering Intern, I work with Python, Django, and Django REST Framework.
-
+- [Project 1: Awesome Web App](https://github.com/yourusername/awesome-web-app) - Description of the project.
+- [Project 2: Amazing Machine Learning Model](https://github.com/yourusername/amazing-ml-model) - Description of the project.
+- [Project 3: Fantastic Android App](https://github.com/yourusername/fantastic-android-app) - Description of the project.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100058844351392) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-suthar-468206209) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jaysuthar162001) 
