@@ -6,9 +6,9 @@
 🌱 Dev Projects:
 
 - [GeekWrite](https://github.com/Jay-Suthar/GeekWrite)
-- [Natours---Tour-Booking-Website](https://github.com/Jay-Suthar/Natours---Tour-Booking-Website)
-- [Kisan-App](https://github.com/Jay-Suthar/Kisan-App)
-- [USER-MANAGEMENT-SYSTEM-USING-DJANGO-SQLite-REST](https://github.com/Jay-Suthar/USER-MANAGEMENT-SYSTEM-USING-DJANGO-SQLite-REST)
+- [Natours - A Tour Booking Website](https://github.com/Jay-Suthar/Natours---Tour-Booking-Website)
+- [Kisan App](https://github.com/Jay-Suthar/Kisan-App)
+- [User Management System using Django, SQLite, REST](https://github.com/Jay-Suthar/USER-MANAGEMENT-SYSTEM-USING-DJANGO-SQLite-REST)
 
 🌱 ML / DL Projects:
 
