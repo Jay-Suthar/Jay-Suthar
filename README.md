@@ -14,6 +14,7 @@
 
 - [Fake News Detection using CNN, LSTM, BiLSTM, BERT, RoBERTa](https://github.com/Jay-Suthar/FAKE_NEWS_DETECTION_USING_CNN_LSTM_BILSTM_BERT_ROBERTA) 
 - [Deep Fake Detection using CNN, Xception, DenseNet121](https://github.com/Jay-Suthar/DEEP-FAKE-DETECTION-using-cnn-xception-densenet121)
+- [Anomaly-Detection-on-Dynamic-Data-Streams-using-Continual-Learning](https://github.com/Jay-Suthar/Anomaly-Detection-on-Dynamic-Data-Streams-using-Continual-Learning)
 - [Covid-19 Detection using CNN, VGG16, VGG19, ResNet on X-Ray Images](https://github.com/Jay-Suthar/Covid-19-Detection-using-CNN-VGG16-VGG19-RESNET-ON-X-RAY-IMAGES) 
 - [Text Summarization using BART, T5, ProphetNet, PEGASUS](https://github.com/Jay-Suthar/TEXT-SUMMARIZATION-USING-BART-T5-PROPHETNET-PEGASUS)
 
